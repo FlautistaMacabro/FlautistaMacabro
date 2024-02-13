@@ -9,6 +9,8 @@
 <p>
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-32b9f6?style=flat-square&logo=dart&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e01d?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-00556a?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-40c0ef?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Expressjs" src="https://img.shields.io/badge/-Express.js-384752?style=flat-square&logo=Express&logoColor=white" />
