@@ -1,8 +1,10 @@
-### Hello, my friend 👋
+### Hello there 👋
 
 <h3>Something about my work here</h3>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=flautistamacabro&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-profile-trophy.vercel.app/?username=flautistamacabro&theme=juicyfresh&no-bg=true" />
+
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=flautistamacabro&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />-->
 
 <h3>Here some things that I code with</h3>
@@ -27,6 +29,10 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />-->
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
 </p>
+
+<h3>My Codewars status</h3>
+
+[![Codewars Badge](https://www.codewars.com/users/FlautistaMacabro/badges/large)](https://www.codewars.com/users/FlautistaMacabro)
 
 <h3>You can find me in</h3>
 <p><a href="https://github.com/FlautistaMacabro" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vinícius-pelegrineli-bombarda-b2b026239" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlHDWXRGqNVQnrGCbHVTSFMsmBqGBDLTVWmgLsHcbmrwdvkbwpckxJDTHbGCmgpSdnBcCL" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23d74539.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
