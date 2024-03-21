@@ -1,4 +1,7 @@
-### Hello there 👋
+<div>
+	 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=3500&color=b19ae3&center=true&vCenter=true&multiline=true&width=200&height=55&lines=Hello+World+%F0%9F%91%8B">
+</div>
+<br/>
 
 ![Header](./header_banner.png)
 
