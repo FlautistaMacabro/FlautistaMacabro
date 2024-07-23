@@ -7,7 +7,7 @@
 
 <h3>Something about my work here</h3>
 
-<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=flautistamacabro&theme=tokyonight" alt="mystreak"/>-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=flautistamacabro&theme=tokyonight" alt="mystreak"/>
 <img src="https://github-profile-trophy.vercel.app/?username=flautistamacabro&theme=juicyfresh&no-bg=true" />
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=flautistamacabro&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />-->
