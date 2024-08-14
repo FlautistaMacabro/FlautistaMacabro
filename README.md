@@ -25,7 +25,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-4cdf8f?style=flat-square&logo=android&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-107cbc?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="VSCode/Codium" src="https://img.shields.io/badge/-VSCode-107cbc?style=flat-square&logo=vscodium&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa308?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
