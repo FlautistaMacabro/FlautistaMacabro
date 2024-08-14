@@ -28,6 +28,7 @@
   <img alt="VSCode/Codium" src="https://img.shields.io/badge/-VSCode-107cbc?style=flat-square&logo=vscodium&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa308?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-9f58fb?style=flat-square&logo=figma&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <!--<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
