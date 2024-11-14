@@ -17,7 +17,8 @@
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-32b9f6?style=flat-square&logo=dart&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e01d?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-00556a?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00556a?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-326790?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-40c0ef?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="FlutterFlow" src="https://img.shields.io/badge/-FlutterFlow-4b39ef?style=flat-square&logo=flat&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
