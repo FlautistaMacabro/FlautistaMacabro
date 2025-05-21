@@ -29,6 +29,7 @@
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-4cdf8f?style=flat-square&logo=android&logoColor=white" />
   <img alt="VSCode/Codium" src="https://img.shields.io/badge/-VSCode-107cbc?style=flat-square&logo=vscodium&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Hoppscotch" src="https://img.shields.io/badge/-Hoppscotch-073729?style=flat-square&logo=hoppscotch&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa308?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-9f58fb?style=flat-square&logo=figma&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -37,6 +38,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />-->
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black" />
+  <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-8b5cf6?style=flat-square&logo=obsidian&logoColor=white" />
 </p>
 
 <h3>My Codewars status</h3>
