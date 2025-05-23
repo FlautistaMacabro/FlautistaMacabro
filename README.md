@@ -5,14 +5,16 @@
 
 ![Header](./header_banner.png)
 
-<h3>Something about my work here</h3>
+> *"Debugging. The game where you are the criminal, the victim, and the detective at the same time. But you probably don't know where the crime took place, or what it was. But there definitely is a crime."*
+
+### Something about my work here
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=flautistamacabro&theme=tokyonight" alt="mystreak"/>
 <img src="https://github-profile-trophy.vercel.app/?username=flautistamacabro&theme=juicyfresh&no-bg=true" />
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=flautistamacabro&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />-->
 
-<h3>Here some things that I code with</h3>
+### Here some things that I code with
 <p>
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-32b9f6?style=flat-square&logo=dart&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -41,7 +43,7 @@
   <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-8b5cf6?style=flat-square&logo=obsidian&logoColor=white" />
 </p>
 
-<h3>My Codewars status</h3>
+### My Codewars status
 
 [![Codewars Badge](https://www.codewars.com/users/FlautistaMacabro/badges/large)](https://www.codewars.com/users/FlautistaMacabro)
 
